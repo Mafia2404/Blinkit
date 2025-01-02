@@ -1,7 +1,7 @@
 # Blinkit
  ##Blinkit Analysis Dashboard##
  
- #STEPS IN PROJECT
+ # STEPS IN PROJECT
 
 ✓ Requirement Gathering/ Business Requirements
 
@@ -11,7 +11,7 @@
 
 ✓ Data Cleaning / Quality Check
 
-✔ Data Modeling
+✓ Data Modeling
 
 ✓ Data Processing
 
@@ -25,7 +25,7 @@
 
 ✓ Insights Generation
 
-#BUSINESS REQUIREMENT
+# BUSINESS REQUIREMENT
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power Bl.
 
@@ -39,7 +39,7 @@ KPI's Requirements
 
 4. Average Rating. The average customer rating for items sold.
 
-#Chart's Requirements
+# Chart's Requirements
 
 1. Total Sales by Fat Content
 
@@ -87,7 +87,7 @@ Chart Type: Funnel Map.
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of items, Average Rating) broken down by different outlet types.
 
 Chart Type: Matrix Card.
-
+<br>
 
  
 <img src="https://github.com/Mafia2404/Blinkit/blob/main/bln.png"/>
